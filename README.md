@@ -63,6 +63,7 @@ A simple single-channel host around your J2534 DLL.
                                                                 |  (x86/x64 matched)  |
                                                                 +---------------------+
 
+```
 ## Requirements
 
 - Windows with J2534 tool + vendor DLL installed
