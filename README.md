@@ -2,6 +2,9 @@
 
 Self-hosted **Web API 2 (OWIN)** service that exposes **J2534** operations over HTTP.   
 A simple single-channel host around your J2534 DLL.  
+
+<img width="927" height="729" alt="image" src="https://github.com/user-attachments/assets/d76e7226-654f-47bf-87ce-a2f05d7dd1fa" />
+
   
 > ⚠️ Process bitness **must** match your vendor DLL (many J2534 DLLs are **x86**). Set the project Platform Target accordingly.
 
